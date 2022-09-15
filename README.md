@@ -1,23 +1,45 @@
 # MVC Tech Blog
 
-## Project Description
+## Usage
+The application is deployed on Heroku at (https://floating-shore-74916.herokuapp.com/)
+  ![MIT](https://img.shields.io/badge/License-No_License-red)
+
+
+
+  
+  ## Description
 This project uses the Model-View-Controller (MVC) paradigm to create a blog-style website where developers can create an account, edit their information, make posts, edit posts, and comment on other user's posts.
 
-## Tools Used to Create This Project
-* JavaScript ES6
-* Node.js
-* Express.js
-* dotenv (npm package used to store environmental variables used in a project locally so sensitive data like root passwords are not exposed on GitHub)
-* MySQL
-* Sequelize (npm package for integrating MySQL and Node.js)
-* bcrypt (npm package for password hashing)
-* handlebars (npm package for a template engine used for html and javascript integration on the front-end)
-* Heroku (hosting platform)
-  * JawsDB (a Heroku add-on for hosting the MySQL database)
+  ## Table of Contents
+- [EmployeeTracker](#employeetracker)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Installation Instructions](#installation-instructions)
+  - [Usage Information](#usage-information)
+    - [Contribution Guidelines](#contribution-guidelines)
+  - [Tests](#tests)
+  - [Licensing](#licensing)
+  - [Questions](#questions)
+You run the application using the node index command. From there you will be prompted to view employees, add a role, delete, etc. Follow all prompts. (Still have to update my SQL commands for it to be 100 percent correct.)
+  
+  ### Contribution Guidelines
+  No contributions are welcomed.
+  
+  ## Tests
 
-## Usage
-The application is deployed on Heroku at https://warm-river-26748.herokuapp.com/ 
+  
+  ## Licensing
+  This project has no license which means it is under exclusive copyright by default. Nobody can copy, distribute or modify.
 
-Visit the website on Heroku. You can view posts and visit links as a visitor, create your own account, and as an authenticated user you can add your own posts and comment on other posts as well. You can edit titles and content or delete your own posts as well. You can also update your username, email, and password.
+  ## Questions
+  To see my github repository please visit my [Github repository](https://github.com/RikRox/TechBlog2)
 
-Warning: New data is stored on Heroku for an indeterminate period of time. At least once a day the dynos will be restarted and any new data included new users might be wiped out.
+  The application is deployed on Heroku at (https://floating-shore-74916.herokuapp.com/)
+
+
+  
+  To contact me for more questions feel free to email me at: Rikaylaj@gmail.com
+  
+  
+  
+  
